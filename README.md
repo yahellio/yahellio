@@ -22,4 +22,4 @@
 ### 📫 Reach me at
 **Telegram:** [@yahellio](https://t.me/yahellio)  
 **Email:** [yahellio.w@gmail.com](mailto:yahellio.w@gmail.com)  
-**GitHub:** [github.com/yahellio](https://github.com/yahellio)
+
