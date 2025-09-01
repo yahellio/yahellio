@@ -1,6 +1,6 @@
 ### 👋 Hi there! I'm Vladislav
 
-**Aspiring Fullstack Developer** | Student at BSUIR (Faculty of Computer Systems and Networks)
+**Aspiring Fullstack JS Developer** | Student at BSUIR (Faculty of Computer Systems and Networks)
 
 ---
 
