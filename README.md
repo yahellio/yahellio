@@ -15,7 +15,7 @@
 **Frontend:** React, REST API  
 **Backend:** Node.js, Express.js  
 **Databases:** SQL (MySQL/PostgreSQL)  
-**Tools:** Git, NPM
+**Tools:** Git, NPM, WebSockets, JWT
 
 ---
 
