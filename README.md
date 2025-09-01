@@ -1,16 +1,25 @@
-## Top 1 github user at the moment
+### 👋 Hi there! I'm Vladislav
 
-<!--
-**yahellio/yahellio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Fullstack Developer** | Student at BSUIR (Faculty of Computer Systems and Networks)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Current Focus
+*   Looking for an internship or Junior Developer position
+*   Open to challenging tasks and deep diving into new technologies
+
+---
+
+### 🛠 Tech Stack
+**Languages:** JavaScript, HTML, CSS  
+**Frontend:** React, REST API  
+**Backend:** Node.js, Express.js  
+**Databases:** SQL (MySQL/PostgreSQL)  
+**Tools:** Git, NPM
+
+---
+
+### 📫 Reach me at
+**Telegram:** [@yahellio](https://t.me/yahellio)  
+**Email:** [yahellio.w@gmail.com](mailto:yahellio.w@gmail.com)  
+**GitHub:** [github.com/yahellio](https://github.com/yahellio)
