@@ -5,7 +5,7 @@
 ---
 
 ### 🛠 Tech Stack
-**Languages:** JavaScript, HTML, CSS  
+**Languages:** TypeScript, JavaScript, HTML, CSS  
 **Frontend:** React, REST API  
 **Backend:** Node.js, Express.js  
 **Databases:** SQL (MySQL/PostgreSQL)  
