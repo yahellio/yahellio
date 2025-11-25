@@ -4,12 +4,6 @@
 
 ---
 
-### 🎯 Current Focus
-*   Looking for an internship or Junior Developer position
-*   Open to challenging tasks and deep diving into new technologies
-
----
-
 ### 🛠 Tech Stack
 **Languages:** JavaScript, HTML, CSS  
 **Frontend:** React, REST API  
